@@ -34,8 +34,8 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=setlors&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=b09fff&icon_color=ff9fce&text_color=e8e4ff)
+<img src="https://github-readme-stats.vercel.app/api?username=setlors&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=b09fff&icon_color=ff9fce&text_color=e8e4ff" />
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setlors&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=b09fff&text_color=e8e4ff)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setlors&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=b09fff&text_color=e8e4ff" />
 
 </div>
