@@ -2,19 +2,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=72&duration=3000&pause=2000&color=8B0000&center=true&vCenter=true&width=600&height=120&lines=Haii!!" alt="Haii!!" />
 
-<h3><sub><i>grab a seat</i></sub></h3>
+## Veronika's here
 
 </div>
 
----
-
-## Veronika's here
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=100%" />
 
 ☆ FICE KPI · Software Engineering student
 
 ☆ Full Stack Dev · Game Dev (wip)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=100%" />
 
 ### My stack
 
@@ -24,18 +22,16 @@
 
 **Databases:** ![MongoDB](https://img.shields.io/badge/-MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=100%" />
 
 ### WIP
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=000) ![C#](https://img.shields.io/badge/-C%23-9B4FCA?style=for-the-badge&logo=csharp&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=100%" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=setlors&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=b09fff&icon_color=ff9fce&text_color=e8e4ff&ring_color=b09fff" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setlors&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=b09fff&text_color=e8e4ff" />
+<img src="https://streak-stats.demolab.com?user=setlors&theme=tokyonight&hide_border=true&background=0d0d0d&ring=b09fff&fire=ff9fce&currStreakLabel=e8e4ff" />
 
 </div>
