@@ -10,9 +10,9 @@
 
 <img src="https://i.pinimg.com/1200x/5b/22/a1/5b22a1581ccbe75c8181856519a49504.jpg" width="200" align="right"/>
 
-☆ FICE KPI · Software Engineering student 
-☆ Full Stack Dev · Game Dev (wip) 
-☆ Huge пацєткі && resident evil enthusiast
+<p> ☆ FICE KPI · Software Engineering student </p>
+<p> ☆ Full Stack Dev · Game Dev (wip) </p>
+<p> ☆ Huge пацєткі && resident evil enthusiast </p>
 
 ### My stack
 
