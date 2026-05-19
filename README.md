@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=610E0E&height=2&width=100%" />
 
-<img src="https://i.pinimg.com/1200x/5b/22/a1/5b22a1581ccbe75c8181856519a49504.jpg" width="200" align="right"/>
+<img src="https://i.pinimg.com/1200x/5b/22/a1/5b22a1581ccbe75c8181856519a49504.jpg" width="150" align="right"/>
 
 <p> ☆ FICE KPI · Software Engineering student </p>
 <p> ☆ Full Stack Dev · Game Dev (wip) </p>
@@ -16,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=610E0E&height=2&width=100%" />
 
-<h3> My stack </h3>
+## My stack 
 
 **Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -26,7 +26,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=610E0E&height=2&width=100%" />
 
-<h3> WIP </h3>
+## WIP 
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=000) ![C#](https://img.shields.io/badge/-C%23-9B4FCA?style=for-the-badge&logo=csharp&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
