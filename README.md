@@ -8,8 +8,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=610E0E&height=2&width=100%" />
 
-| <br> ☆ FICE KPI · Software Engineering student <br> ☆ Full Stack Dev · Game Dev (wip) <br> ☆ Huge пацєткі && resident evil enthusiast <br><br> | <img src="https://i.pinimg.com/1200x/5b/22/a1/5b22a1581ccbe75c8181856519a49504.jpg" width="180" align="right" /> |
-|:---|---:|
+<div align="right">
+<img src="https://i.pinimg.com/1200x/5b/22/a1/5b22a1581ccbe75c8181856519a49504.jpg" width="180" />
+</div>
+
+☆ FICE KPI · Software Engineering student
+☆ Full Stack Dev · Game Dev (wip)
+☆ Huge пацєткі && resident evil enthusiast
 
 ### My stack
 
