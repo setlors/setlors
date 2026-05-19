@@ -2,15 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=72&duration=3000&pause=2000&color=610E0E&center=true&vCenter=true&width=600&height=120&lines=Haii!!" alt="Haii!!" />
 
-<h3> Veronika's here </h3>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=610E0E&height=2&width=100%" />
 
 <img src="https://i.pinimg.com/1200x/5b/22/a1/5b22a1581ccbe75c8181856519a49504.jpg" width="150" align="right"/>
 
-<br>
+<h3> Veronika's here </h3>
 <p>     ☆ FICE KPI · Software Engineering student </p>
 <p>     ☆ Full Stack Dev · Game Dev (wip) </p>
 <p>     ☆ Huge пацєткі && resident evil enthusiast </p>
