@@ -14,7 +14,9 @@
 <p> ☆ Full Stack Dev · Game Dev (wip) </p>
 <p> ☆ Huge пацєткі && resident evil enthusiast </p>
 
-### My stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=610E0E&height=2&width=100%" />
+
+<h3> My stack </h3>
 
 **Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -24,7 +26,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=610E0E&height=2&width=100%" />
 
-### WIP
+<h3> WIP </h3>
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=000) ![C#](https://img.shields.io/badge/-C%23-9B4FCA?style=for-the-badge&logo=csharp&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
