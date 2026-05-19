@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=72&duration=3000&pause=2000&color=450000&center=true&vCenter=true&width=600&height=120&lines=Haii!!" alt="Haii!!" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=72&duration=3000&pause=2000&color=610E0E&center=true&vCenter=true&width=600&height=120&lines=Haii!!" alt="Haii!!" />
 
 ### Veronika's here
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=450000&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=610E0E&height=2&width=100%" />
 
-| | |
-|---|---|
-| ☆ FICE KPI · Software Engineering student <br> ☆ Full Stack Dev · Game Dev (wip) <br> ☆ Huge пацєтки && resident evil enthusiast | <img src="https://i.pinimg.com/1200x/5b/22/a1/5b22a1581ccbe75c8181856519a49504.jpg" width="200" /> |
+| <br> ☆ FICE KPI · Software Engineering student <br> ☆ Full Stack Dev · Game Dev (wip) <br> ☆ Huge пацєткі && resident evil enthusiast <br><br> | <img src="https://i.pinimg.com/1200x/5b/22/a1/5b22a1581ccbe75c8181856519a49504.jpg" width="180" align="right" /> |
+|:---|---:|
 
 ### My stack
 
@@ -20,13 +19,13 @@
 
 **Databases:** ![MongoDB](https://img.shields.io/badge/-MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=450000&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=610E0E&height=2&width=100%" />
 
 ### WIP
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=000) ![C#](https://img.shields.io/badge/-C%23-9B4FCA?style=for-the-badge&logo=csharp&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=450000&height=2&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=610E0E&height=2&width=100%" />
 
 <div align="center">
 
