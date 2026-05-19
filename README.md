@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=72&duration=3000&pause=2000&color=610E0E&center=true&vCenter=true&width=600&height=120&lines=Haii!!" alt="Haii!!" />
 
-### Veronika's here
+<h3> Veronika's here </h3>
 
 </div>
 
@@ -10,14 +10,14 @@
 
 <img src="https://i.pinimg.com/1200x/5b/22/a1/5b22a1581ccbe75c8181856519a49504.jpg" width="150" align="right"/>
 
-<p></p>
+<br><br>
 <p>     ☆ FICE KPI · Software Engineering student </p>
 <p>     ☆ Full Stack Dev · Game Dev (wip) </p>
 <p>     ☆ Huge пацєткі && resident evil enthusiast </p>
-
+<br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=610E0E&height=2&width=100%" />
 
-## My stack 
+<h2> My stack </h2>
 **Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Backend:** ![Fastify](https://img.shields.io/badge/-Fastify-000?style=for-the-badge&logo=fastify&logoColor=fff) ![Node.js](https://img.shields.io/badge/-Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=339933)
@@ -26,7 +26,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=610E0E&height=2&width=100%" />
 
-## WIP 
+<h2> WIP </h2>
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=000) ![C#](https://img.shields.io/badge/-C%23-9B4FCA?style=for-the-badge&logo=csharp&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=610E0E&height=2&width=100%" />
