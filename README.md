@@ -8,20 +8,19 @@
 
 <img src="https://i.pinimg.com/1200x/5b/22/a1/5b22a1581ccbe75c8181856519a49504.jpg" width="150" align="right"/>
 
-<h3> Veronika's here </h3>
+<br>
 <p>     ☆ FICE KPI · Software Engineering student </p>
 <p>     ☆ Full Stack Dev · Game Dev (wip) </p>
-<p>     ☆ Huge пацєткі && resident evil enthusiast </p>
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=610E0E&height=2&width=100%" />
 
 <h2> My stack </h2>
 
-**Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend:** ![Fastify](https://img.shields.io/badge/-Fastify-000?style=for-the-badge&logo=fastify&logoColor=fff) ![Node.js](https://img.shields.io/badge/-Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=339933)
+![Fastify](https://img.shields.io/badge/-Fastify-000?style=for-the-badge&logo=fastify&logoColor=fff) ![Node.js](https://img.shields.io/badge/-Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=339933)
 
-**Databases:** ![MongoDB](https://img.shields.io/badge/-MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=610E0E&height=2&width=100%" />
 
