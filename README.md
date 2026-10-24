@@ -11,7 +11,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E26D8E&height=2&width=100%" />
 
-<img src="https://i.pinimg.com/1200x/5b/22/a1/5b22a1581ccbe75c8181856519a49504.jpg" width="150" align="right"/>
+<img src="https://i.pinimg.com/1200x/68/f7/6e/68f76e20378b0914ebc8f51b3d5e7d6a.jpg" width="150" align="right"/>
 
 <br>
 <p>     ☆ FICE KPI · Software Engineering student </p>
