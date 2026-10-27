@@ -34,8 +34,8 @@
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=js,ts,react" alt="frontend" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=java,nodejs,fastify" alt="backend" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb,prisma" alt="data" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=c,cs,py" alt="wip" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" alt="data" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c,cs,py,go" alt="wip" /></td>
 </tr>
 </table>
 
