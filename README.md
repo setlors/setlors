@@ -68,8 +68,6 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/setlors) [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/user) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usern) [![Email](https://img.shields.io/badge/-Email-B5654A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:user)
 
-<sub>made with ♥ in Ukraine 🇺🇦</sub>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:522D60,100:F2A67B&height=120&section=footer" width="100%" alt="" />
+
