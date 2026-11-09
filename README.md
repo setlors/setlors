@@ -47,9 +47,8 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=setlors&show_icons=true&hide_border=true&theme=transparent&title_color=F2A67B&icon_color=B5654A&text_color=9A8087&ring_color=E26D8E&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setlors&layout=compact&hide_border=true&theme=transparent&title_color=F2A67B&text_color=9A8087&langs_count=8" alt="top languages" />
-
+<img height="180" src="profile-summary-card-output/default/3-stats.svg" alt="stats" />
+<img height="180" src="profile-summary-card-output/default/2-most-commit-language.svg" alt="top languages" />
 <br>
 
 <img src="https://streak-stats.demolab.com?user=setlors&theme=transparent&hide_border=true&ring=E26D8E&fire=B5654A&currStreakNum=FFD38B&sideNums=FFD38B&currStreakLabel=B5654A&sideLabels=9A8087&dates=9A8087" alt="streak" />
