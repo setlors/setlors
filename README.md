@@ -47,8 +47,8 @@
 
 <div align="center">
 
-<img height="180" src="profile-summary-card-output/default/3-stats.svg" alt="stats" />
-<img height="180" src="profile-summary-card-output/default/2-most-commit-language.svg" alt="top languages" />
+<img height="180" src="profile-summary-card-output/radical/3-stats.svg" alt="stats" />
+<img height="180" src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="top languages" />
 <br>
 
 <img src="https://streak-stats.demolab.com?user=setlors&theme=transparent&hide_border=true&ring=E26D8E&fire=B5654A&currStreakNum=FFD38B&sideNums=FFD38B&currStreakLabel=B5654A&sideLabels=9A8087&dates=9A8087" alt="streak" />
